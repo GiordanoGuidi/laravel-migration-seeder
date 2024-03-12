@@ -3,7 +3,7 @@
 Iniziamo un nuovo progetto laravel (ricordate di controllare che non vi installi la versione 11)
 1. Creiamo una tabella trains tramite una migration
 Ogni treno dovrà avere:
-Azienda
+- Azienda
 - Stazione di partenza
 - Stazione di arrivo
 - Orario di partenza
