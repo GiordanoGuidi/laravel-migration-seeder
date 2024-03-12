@@ -13,13 +13,13 @@ Azienda
 - In orario
 - Cancellato (si / no)
 
-È probabile che siano necessarie altre colonne per far funzionare la tabella nel modo corretto :wink:
+È probabile che siano necessarie altre colonne per far funzionare la tabella nel modo corretto.
 
 2. Una volta eseguita la migration provate ad inserire un dato sul db tramite PhpMyAdmin.
 3. Se tutto funziona, potete passare a generare i file utilizzando una factory:
 php artisan make:factory NomeFactory
 Qui trovate la documentazione al PHP Faker
-4. Create Model relativo ed un Controller per mostrare nella home page tutti i treni che sono in partenza dalla data odierna  :slightly_smiling_face:
+4. Create Model relativo ed un Controller per mostrare nella home page tutti i treni che sono in partenza dalla data odierna.
 #### BONUS:
 Provate a crearvi un array contenente dei dati da poter utilizzare all'interno di un Seeder !
 Buon divertimento!
